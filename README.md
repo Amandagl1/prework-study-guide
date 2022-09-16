@@ -15,7 +15,7 @@ N/A
 
 ## Usage
 
-This prework study guide contains four sections including HTML, CSS, Git, and JavaScript with notes in each section. Using the DevTool console, you will find JavaScript running along with the topics that were covered through the prework. From here, JavaScript will randomly select one topic for you to study.
+This prework study guide contains four sections including HTML, CSS, Git, and JavaScript with notes in each section. Open Chrome DevTools and a console panel will pop up on the browser page. You will find JavaScript running, along with the topics that were covered through the prework. From here, JavaScript will randomly select one topic for you to study.
 
 ## Credits
 
