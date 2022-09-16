@@ -7,7 +7,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - My motivation for this project was to create a study guide with useful notes that will help coding bootcamp students.
 - I built this project because I wanted to create a space where knowledge, tools, terms, etc, on coding, could be stored in an easily accesible place.
 - It helps coding bootcamp students access notes on HTML, CSS, Git, and JavaScript.
-- I learned how a vast amount of knowledge of these four programs/coding languages and how they will benefit me throughout the bootcamp and in my career.
+- I learned a vast amount of knowledge of these four programs/coding languages and how they will benefit me throughout the bootcamp and in my career.
 
 ## Installation
 
